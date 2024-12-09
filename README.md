@@ -19,7 +19,7 @@ I love going for walks with my dog, but also spending my free time on the comput
 
 > **Things I have to do:**
 - [x] Write something about me
-- [ ] Search for the answer of 'forken'
+- [x] Search for the answer of 'forken'
 - [ ] Sleep very well
 
 ---
